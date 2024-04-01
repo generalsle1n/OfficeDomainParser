@@ -4,3 +4,6 @@ obj/
 .vscode/
 .idea/
 .mono/
+Scrapes.db
+Scrapes.db-shm
+Scrapes.db-wal
